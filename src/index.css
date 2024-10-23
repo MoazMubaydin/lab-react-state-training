@@ -30,6 +30,7 @@ code {
   border: none;
 }
 
+.dice img,
 .counter button:hover {
   cursor: pointer;
 }
@@ -52,4 +53,10 @@ code {
   height: 30%;
   margin: 1rem;
   border: 1px solid black;
+}
+
+.dice img {
+  width: 20%;
+  height: 20%;
+  margin: 1rem;
 }
