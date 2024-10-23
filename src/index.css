@@ -30,9 +30,13 @@ code {
   border: none;
 }
 
+.counter button:hover {
+  cursor: pointer;
+
+}
+
 .counter button:active {
   background-color: darkblue;
-  cursor: pointer;
   transform: scale(0.9);
 
 }
