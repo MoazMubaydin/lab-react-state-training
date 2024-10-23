@@ -32,7 +32,6 @@ code {
 
 .counter button:hover {
   cursor: pointer;
-
 }
 
 .counter button:active {
@@ -46,4 +45,11 @@ code {
   margin: 0 1rem;
   width: 2em;
   padding-top: 1rem;
+}
+
+.clickablePicture img {
+  width: 20%;
+  height: 30%;
+  margin: 1rem;
+  border: 1px solid black;
 }
